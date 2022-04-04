@@ -114,6 +114,6 @@ Response Code: 200
 
 ## More Information
 
-For more information about quasar fire MELI
+For more information about mutant MELI
 
 * [gtv.25@hotmail.com](mailto:gtv.25@hotmail.com)
