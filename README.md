@@ -79,6 +79,7 @@ N/A
 
 ```
 400 Bad Request.
+403 Forbidden.
 204 No Content. 
 500 Internal Server Error.
 ```
